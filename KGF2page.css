@@ -1,0 +1,19 @@
+body{
+	color:#FFFFFF !important;
+}
+img.rounded-corners {
+  border-radius: 30px;
+  margin-top:00px;
+  margin-left:100px;
+  height:300px;
+  width: 200px;
+}
+.btn{
+	margin-left: 350px;
+	width: auto;
+    padding: 10px 18px;
+    margin-top: 200px;
+}
+.log{
+	margin-top: 200px;
+}
